@@ -1,7 +1,7 @@
 ## Hi there 👋
 ⚡I make things
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluolightning&hide=html,css&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluolightning&hide=css,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
