@@ -3,8 +3,6 @@
 
 🐧I like penguins  
 
-💬I speak languages <svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><clipPath id="a"><path d="m-88 32h640v480h-640z"/></clipPath><g clip-path="url(#a)" fill-rule="evenodd" stroke-width="1pt" transform="translate(88 -32)"><path d="m-128 32h720v480h-720z" fill="#fff"/><circle cx="523.1" cy="344.1" fill="#d30000" r="194.9" transform="matrix(.76554 0 0 .76554 -168.4 8.6)"/></g></svg>![japan](https://github.com/user-attachments/assets/2e7583db-af02-41cd-9e07-040218e07a73)
-
 🌱I’m currently learning React, browser extension devel
 opment...  
 
