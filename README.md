@@ -1,6 +1,8 @@
 ## Hi there 👋
-⚡I make things
-🌱I’m currently learning React, web extension development...
+⚡I make things  
+
+🌱I’m currently learning React, web extension development...  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluolightning&hide=css,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
