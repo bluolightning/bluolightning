@@ -3,7 +3,7 @@
 
 🐧I like penguins  
 
-🌱I’m currently learning React, browser extension development...  
+🌱I’m currently learning React, browser extension development, ML...  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluolightning&hide=css,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
