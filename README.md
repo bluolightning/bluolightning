@@ -3,8 +3,6 @@
 
 🐧I like penguins  
 
-🌱I’m currently learning python, java, browser extension development, data analysis...  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluolightning&hide=css,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
