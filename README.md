@@ -1,4 +1,8 @@
 ## Hi there 👋
+⚡I make things  👻
+
+🐧I like penguins  
+
 
 <!--
 **bluolightning/bluolightning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
